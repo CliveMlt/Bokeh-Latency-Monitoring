@@ -25,7 +25,7 @@ pip install bokeh pythonping pandas
 ```
 
 ## Configuration
-**Configuration File:** Create a file named server_ips_config.txt (or modify the script to use a different file). This file should contain lines formatted like:
+**Configuration File:** Create a file named server_ips_config.txt (or modify the script to use a different file). <br>This file should contain lines formatted like:
 
 ```sh
 menu = CS2-SERVER
