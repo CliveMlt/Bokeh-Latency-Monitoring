@@ -1,0 +1,7 @@
+menu = CS2-SERVER
+title = CS2-SERVER
+host = 155.133.226.71
+
+menu = CS2-SERVER-2
+title = CS2-SERVER-2
+host = 162.254.196.85
